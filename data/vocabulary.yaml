@@ -145,3 +145,92 @@
 - ассистент
   type: n (m)
 - интересно
+
+- буфет
+  type: n (m)
+- почта
+  type: n (f)
+- багаж
+  type: n (m)
+- лифт
+  type: n (m)
+- ресторан
+  type: n (m)
+- регистрация
+  type: n (f)
+- такси
+  type: n (m)
+- поезд
+  type: n (m)
+- обмен валют
+  type: n (m)
+- автобус
+  type: n (m)
+- вход
+  type: n (m)
+- выход
+  type: n (m)
+- город
+  type: n (m)
+- трамвай
+  type: n (m)
+- урок
+  type: n (m)
+- аптека
+  type: n (f)
+- больница
+  type: n (f)
+- касса
+  type: n (f)
+- квартира
+  type: n (f)
+- комната
+  type: n (f)
+- милиция
+  type: n (f)
+- фамилия
+  type: n (f)
+- церковь
+  type: n (f)
+- здание
+  type: n (f)
+- имя
+  type: n (f)
+- место
+  type: n (n)
+- пиво
+  type: n (n)
+- письмо
+  type: n (n)
+- слово
+  type: n (n)
+- театр
+  type: n (m)
+- аэропорт
+  type: n (m)
+- дом
+  type: n (m)
+- проспект
+  type: n (m)
+- банк
+  type: n (m)
+- магазин
+  type: n (m)
+- парк
+  type: n (m)
+- мост
+  type: n (m)
+- вокзал
+  type: n (m)
+- площадь
+  type: n (f)
+- гостиница
+  type: n (f)
+- улица
+  type: n (f)
+- река
+  type: n (f)
+- станция
+  type: n (f)
+- метро
+  type: n (n)
